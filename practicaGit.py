@@ -1,7 +1,5 @@
 def run():
-    print('Ivan')
-    print('Fernando')
-    print('Bedoya Jaramillo')
+    print('Luisa')
 
 if __name__ == '__main__':
     run()
